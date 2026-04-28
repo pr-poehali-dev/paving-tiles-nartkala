@@ -98,7 +98,7 @@ export default function Index() {
 
       {/* HERO */}
       <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(${HERO_IMG})` }} />
+        <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(https://cdn.poehali.dev/projects/ec564060-6002-40b8-8f45-aa1385920e59/bucket/a9755f94-3947-4788-a7f1-cfd8c970c077.jpg)` }} />
         <div className="absolute inset-0 bg-stone-900/70" />
         <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
           <div className="inline-block border border-amber-500 px-4 py-1 mb-6">
